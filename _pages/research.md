@@ -47,8 +47,7 @@ permalink: /research/
   {% endif %}  
   {% endfor %}
   
-  <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-  <p> {{ project.news2 }}</p>
+  <p class="text-danger"><strong> {{ project.news }}</strong></p>
  </div>
 </div>
 

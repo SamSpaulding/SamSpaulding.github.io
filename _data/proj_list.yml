@@ -1,5 +1,5 @@
 - title: Learning Behavior Policies for Interactive Educational Play
-  image: tega.png
+  image: jibo.jpeg
   summary: Interactive robots that construct real-time student models and personalized game behaviors for optimized educational play.
   description:
     Autonomous educational robots have the potential to deliver significant benefits via social interaction.
@@ -32,6 +32,7 @@
     In the autonomous phase, humans interact with the robot that behaves according to the learned policy." 
   collaborators: W. Bradley Knox, Samuel Spaulding, Cynthia Breazeal
   tag: lfw
+  news: This project has spun off into an exciting robotics start-up, BotsAlive! Read more <a href="https://medium.com/mit-media-lab/building-character-ai-through-machine-learning-7a3159dc4940">here</a>
   
 - title: Content Personalization and Robotic Presence in Human-Robot Tutoring Interactions
   image: keepon_from_movie.png

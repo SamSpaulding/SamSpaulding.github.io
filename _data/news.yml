@@ -1,3 +1,11 @@
+- date: November 13, 2017
+  headline: "Jibo, a robot I helped develop, made the cover of Time magazine and was named one of the 25 Best Inventions of 2017! Congrats to the Jibo team and the other awardees"
+  image: <img src='images/jibo.jpeg'> 
+
+- date: June 01, 2017
+  headline: "I re-enrolled at MIT to complete my Ph.D. in the Personal Robots Group at the MIT Media Lab!"
+  image: <img src='images/news_pics/prg_logo.png'>
+
 - date: April 12, 2016
   headline: "I was invited to give a talk at <a href='http://www.affectiva.com/'>Affectiva, Inc.</a> on <strong> Affect-Aware Social Robot Tutors</strong>"
   image: <img src='images/news_pics/affectiva.jpg'> 
@@ -20,6 +28,10 @@
   headline:  "Paper Accepted! My <a href='resources/Spaulding_AAAI_FSS15.pdf'>extended abstract</a> 
                     was accepted to the <a href='http://www.aaai.org/Symposia/Fall/fss15.php'></a>2015 AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction."
   image: <img src='images/news_pics/aaai_logo.jpeg'>
+
+- date: July 21, 2015
+  headline: "I've started work full-time at Jibo, a robotics started founded by my advisor, Cynthia Breazeal, to develop the world's first social robot for the home"
+  image: <img src='images/jibo.jpeg'>
 
 - date: June 5, 2015
   headline: "I have completed my <a href='resources/Spaulding_SM_Thesis.pdf'>Master's Thesis</a> and was awarded an S.M. Degree in Media Arts & Sciences!</p>"

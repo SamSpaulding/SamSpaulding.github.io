@@ -18,4 +18,4 @@ I built this site based partly on the excellent template provided by the <a href
 
 
 <img src="images/young_robot.jpg" width="35%" height="35%" style="float: left"> 
-<img src="images/shenandoah.jpg" width="35%" height="35%" style="float: right">
+<img src="images/sam_monkey.jpg" width="35%" height="35%" style="float: right">
