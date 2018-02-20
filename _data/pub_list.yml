@@ -1,6 +1,20 @@
+- title: "A Social Robot System for Modeling Children's Word Pronunciation"
+  code: C7  
+  description: "We present a system that autonomously engages children in educational play while modeling and assessing pronunciation ability via Gaussian Process Regression"
+  authors: <strong>Samuel Spaulding</strong>, Huili Chen, Safinah Ali, Mike Kulinski, Cynthia Breazeal
+  tag: modeling
+  venue: Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2018)
+  venue_code: AAMAS 2018
+  year: 2018
+  link:
+    url: resources/aamas_gpr_17.pdf
+    display:  Here!
+  highlight: 1
+  news2:
+
 - title: "Learning from the Wizard: Programming Social Interaction via Teleoperated Demonstrations"
   code: C6  
-  description: ""
+  description: "We apply learning from demonstration to socially interactive behavior using data collected from Wizard-of-Oz interactions"
   authors: W. Bradley Knox, <strong>Samuel Spaulding</strong>, Cynthia Breazeal
   tag: lfw
   venue: Proceedings of the 15th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2016) - Extended Abstracts
