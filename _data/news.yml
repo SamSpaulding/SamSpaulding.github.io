@@ -1,3 +1,7 @@
+- date: June 8, 2018
+  headline: "I was invited to give a talk at the IBM T.J. Watson Research Center on 'Learning Affective and Cognitive Models for Robot Tutoring.' Thanks to the Watson for Education team for hosting me!"
+  image: <img src='images/news_pics/watson.png'> 
+
 - date: January 26, 2018
   headline: "Paper Accepted! <a href='resources/aamas_gpr_17.pdf'>A Social Robot System for Modeling Children's Word Pronunciation</a> 
                       was accepted as a full paper at <a href='http://celweb.vuse.vanderbilt.edu/aamas18/'></a>AAMAS 2018."
