@@ -1,10 +1,19 @@
+- date: June 20, 2018
+  headline: "I \"graduated\" from the MIT Kaufman Teaching Certificate Program (KTCP), certifying my completion of a series of teaching workshops and activites to prepare early-career researchers for university-level teaching."
+  image: <img src='images/news_pics/tll-sprite.png'> 
+
 - date: June 8, 2018
   headline: "I was invited to give a talk at the IBM T.J. Watson Research Center on 'Learning Affective and Cognitive Models for Robot Tutoring.' Thanks to the Watson for Education team for hosting me!"
   image: <img src='images/news_pics/watson.png'> 
 
+- date: March 22, 2018
+  headline: "Paper Accepted! <a href='resources/aamas_DC_18.pdf'>Personalized Robot Tutors that Learn from Multimodal Data</a> 
+                      was accepted to the <a href='http://celweb.vuse.vanderbilt.edu/aamas18/'>AAMAS 2018</a> Doctoral Consortium."
+  image: <img src='images/news_pics/aamas18.png'> 
+
 - date: January 26, 2018
   headline: "Paper Accepted! <a href='resources/aamas_gpr_17.pdf'>A Social Robot System for Modeling Children's Word Pronunciation</a> 
-                      was accepted as a full paper at <a href='http://celweb.vuse.vanderbilt.edu/aamas18/'></a>AAMAS 2018."
+                      was accepted as a full paper at <a href='http://celweb.vuse.vanderbilt.edu/aamas18/'>AAMAS 2018</a>."
   image: <img src='images/news_pics/aamas18.png'> 
 
 - date: November 13, 2017
@@ -44,11 +53,11 @@
 
 - date: June 5, 2015
   headline: "I have completed my <a href='resources/Spaulding_SM_Thesis.pdf'>Master's Thesis</a> and was awarded an S.M. Degree in Media Arts & Sciences!</p>"
-  image:  <img src='images/news_pics/ML_logo.png'>
+  image:  <img src='images/news_pics/ML_Logo.png'>
 
 - date: April 15, 2015
   headline: "I was invited to speak at the 2015 Media Lab Spring Member's Event! My talk covered recent advances in Social Robotics and current research in the <a href='http://robotic.media.mit.edu'>Personal Robots Group</a>"
-  image: <img src='images/news_pics/ML_logo.png'>
+  image: <img src='images/news_pics/ML_Logo.png'>
 
 - date: March 5, 2015
   headline:  "I attended <a href='http://humanrobotinteraction.org/2015/'>HRI 2015</a>  and the <a href='http://www.hripioneers.info/hri15/'>2015 HRI Pioneers</a> workshop in Portland, Oregon. I was elected to the organizing committee for the <a href='http://www.hripioneers.info/hri16/index.html'>2016 HRI Pioneers Workshop</a> as the Panel Chair!"
