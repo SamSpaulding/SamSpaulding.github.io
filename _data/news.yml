@@ -1,6 +1,10 @@
-- date: March 10, 2018
-  headline: "I'm in Daegu, Korea for HRI 2019, co-organizing a workshop on <a href='https://longtermpersonalizationhri.github.io/'>Personalization in Long-term Human-Robot Interaction</a>"
-  image: <img src='images/news_pics/hri2019.png'>
+- date: April 4, 2019
+  headline: "I was invited to speak at EmTech Caribbean about how social robots can be used as a tool to aid human social and cognitive development. Thanks to the organizers and other speakers for hosting a great event!"
+  image: <br><img src='images/news_pics/emtech.png'>
+
+- date: March 10, 2019
+  headline: "Traveled to Daegu, Korea for HRI 2019, where I co-organized a workshop on <a href='https://longtermpersonalizationhri.github.io/'>Personalization in Long-term Human-Robot Interaction</a> and presented a poster on <a href='resources/HRI19-LBR-Poster.pdf'>Pronunciation-based Child-Robot Game Interactions to Promote Literacy Skills'</a>"
+  image: <br><img src='images/news_pics/hri2019.png'>
 
 - date: July 20, 2018
   headline: "I presented \"A Social Robot System for Modeling Children's Word Pronunciation\" at AAMAS 2018, part of the Federated AI Meeting (FAIM) in Stockholm."
