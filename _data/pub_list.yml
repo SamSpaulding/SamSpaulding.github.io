@@ -1,3 +1,31 @@
+- title: "Frustratingly Easy Personalization for Real-time Affect Interpretation of Facial Expression"
+  code: C9  
+  description: "We present an analysis of techniques for itnerpreting high-frequency affect data, and a simple method for personalized interpretation of facial expression data"
+  authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
+  tag: affect
+  venue: Proceedings of the 8th International Conference on Affective Computing & Intelligent Interaction (ACII 2019)
+  venue_code: ACII 2019
+  year: 2019
+  link:
+    url: resources/Spaulding_ACII_19.pdf
+    display:  Here!
+  highlight: 1
+  news2:
+
+- title: "A Model-free Affective Reinforcement Learning Approach to Personalization of an Autonomous Social Robot Companion for Early Literacy Education"
+  code: C8  
+  description: "We present results from a long-term, in-school study of personalized, affective storytelling social robot companion"
+  authors: Hae Won Park, Ishaan Grover, <strong>Samuel Spaulding</strong>, Louis Gomez, and Cynthia Breazeal
+  tag: modeling
+  venue: Proceedings of 33rd AAAI Conference on Artificial Intelligence (AAAI 2019)
+  venue_code: AAAI 2019
+  year: 2019
+  link:
+    url: resources/AAAI-19_Park_personalization.pdf
+    display:  Here!
+  highlight: 1
+  news2:
+
 - title: "A Social Robot System for Modeling Children's Word Pronunciation"
   code: C7  
   description: "We present a system that autonomously engages children in educational play while modeling and assessing pronunciation ability via Gaussian Process Regression"
@@ -50,11 +78,10 @@
   link:
     url: resources/altHRI16_Lessons_Learned.pdf
     display: Broken Link
-  highlight: 1
+  highlight: 0
 
 - title: Affective Personalization of a Social Robot Tutor for Children's Second Language Skills
   code: C3
-  image: tega.png
   description: Robots that personalized their supportive behaviors to children's affective response were more able to keep the child engaged and happy over 8 weeks of interaction
   authors: Goren Gordon, <strong>Samuel Spaulding</strong>, Jacqueline Kory Westlund, Jin Joo Lee, Luke Plummer, Marayna Martinez, Madhurima Das, and Cynthia Breazeal
   tag: affect
@@ -68,7 +95,6 @@
 
 - title: Personalizing Robot Tutors to Individuals' Learning Differences
   code: C2
-  image: keepon_from_movie.png
   description: Content personalization from a robot improves learning gains
   authors: Dan Leyzberg, <strong>Samuel Spaulding</strong>, and Brian Scassellati.
   tag: personalization
@@ -82,7 +108,6 @@
 
 - title: The Physical Presence of a Robot Tutor Increases Cognitive Learning Gains
   code: C1
-  image: keepon_from_movie.png
   description: People learned more from the lessons given by a physical robot compared ti a video of the same robot or a disembodied voice giving the same lessons. 
   authors: Dan Leyzberg, <strong>Samuel Spaulding</strong>, Mariya Toneva, and Brian Scassellati.
   tag: personalization
@@ -93,22 +118,33 @@
     url: resources/CogSci2012.pdf
     display: The Physical Presence of a Robot Tutor Increases Cognitive Learning Gains
   highlight: 1  
-  
-- title: Learning Behavior Policies for Interactive Educational Play
+
+- title: Pronunciation-based Child-Robot Game Interactions to Promote Literacy Skills
   code: W8
-  image: tega.png
-  description: Formulating social, educational gameplay as a planning problem.
+  description: Presenting a pronunciation-based personalization model motivating research in companion social robots that help students practice language/literacy skills.
   authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
   tag: modeling
-  venue: Workshop on Mathematical Models, Algorithms, and Human-Robot Interaction (held at RSS 2017)
-  venue_code: Models, Algorithms, and HRI Workshop (RSS 2017)
-  year: 2017
+  venue:  Proceedings of the 14th ACM/IEEE International Conference on Human-Robot Interaction - Late-Breaking Reports
+  venue_code: HRI 2019 Late-breaking Reports
+  year: 2019
   link:
-    url: resources/Spaulding_RSS_LearningBehaviorPolicies.pdf
+    url: resources/HRI19-LBR-Poster.pdf
   highlight: 1
 
-- title: Tega, A Social Robot
+- title: Personalized Robot Tutors that Learn from Multimodal Data
   code: W7
+  description: Advocating for multimodal personalization in companion social robots.
+  authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
+  tag: modeling
+  venue: Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems - Doctoral Consortium
+  venue_code: AAMAS 2018 Doctoral Consortium
+  year: 2018
+  link:
+    url: resources/aamas_DC_18.pdf
+  highlight: 0
+
+- title: Tega, A Social Robot
+  code: W6
   image: tega.png
   description: We built a new robot and made a video about it!
   authors: Kory Westlund, J. M., Lee, J., Plummer, L., Faridi, F., Gray, J., Berlin, M., Quintus-Bosz, H., Harmann, R., Hess, M., Dyer, S., dos Santos, K., Adalgeirsson, S., Gordon, G., <strong>Spaulding, S.</strong>, Martinez, M., Das, M., Archie, M., Jeong, S., & Breazeal, C.
@@ -122,9 +158,9 @@
   awards: Best Video Nominee
 
 - title: Towards Affect-Awareness for Social Robots
-  code: W6
+  code: W5
   image: keepon_from_movie.png
-  description: We describe three levels of affective intelligence for social robots, outline the utility of each level, and sketch future work for robots to achieve each level.
+  description: We describe three levels of affective intelligence for social robots and outline the utility of each level, and sketch future work for robots to achieve each level.
   authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
   tag: affect
   venue: 2015 AAAI Fall Symposium on Artificial Intelligence for Human-Robot Interaction (AI-HRI 2015)
@@ -136,7 +172,7 @@
   highlight: 0
 
 - title: Learning a Second Language with a Socially Assistive Robot
-  code: W5
+  code: W4
   image: keepon_from_movie.png
   description: Preliminary presentation of result from a long-term second-language learning study conducted over 8 weeks at a school in Lexington, MA.
   authors: Jacqueline Kory Westlund, Goren Gordon, <strong>Samuel Spaulding</strong>, Jin Joo Lee, Luke Plummer, Marayna Martinez, Madhurima Das, and Cynthia Breazeal
@@ -150,7 +186,7 @@
   highlight: 0
 
 - title: Affect and Inference in Bayesian Knowledge Tracing with a Robot Tutor
-  code: W4
+  code: W3
   image: keepon_from_movie.png
   description: We describe an extension to BKT that uses real-time facial expression analysis to improve a robot tutor's inference of student knowledge.
   authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
@@ -164,7 +200,7 @@
   highlight: 0
 
 - title: Exploring Child-Robot Tutoring Interactions with Bayesian Knowledge Tracing
-  code: W3
+  code: W2
   image: keepon_from_movie.png
   description: We propose an extension to the popular Bayesian Knowledge Tracing (BKT) method for modeling student knowledge that leverages the embodied, interactive qualities of a robot tutor.
   authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
@@ -178,7 +214,7 @@
   highlight: 0
 
 - title: "Learning Social Interaction from the Wizard: A Proposal"
-  code: W2
+  code: W1
   image: keepon_from_movie.png
   description:
     We propose a method of programming social interaction behavior via learning from teleoperated demonstrations
@@ -193,7 +229,7 @@
   highlight: 1
 
 - title: Animacy Perception and Mind Attribution in a Cognitive Architecture for Human-Robot Interaction
-  code: W1
+  code: W0
   image: keepon_from_movie.png
   description:
     Many aspects of social cognition are rooted in perceptual abilities that are highly tuned to social phenomena. This recent realization has implications for the design of cognitive architectures to support human-robot interaction.
