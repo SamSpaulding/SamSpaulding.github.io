@@ -119,6 +119,34 @@
     display: The Physical Presence of a Robot Tutor Increases Cognitive Learning Gains
   highlight: 1  
 
+- title: "Towards Transferrable Affective Models for Educational Play"
+  code: W10  
+  description: "We present an analysis of techniques for itnerpreting high-frequency affect data, and a simple method for personalized interpretation of facial expression data"
+  authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
+  tag: affect
+  venue: Proceedings of the 16th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE 2020 Doctoral Consortium)
+  venue_code: AIIDE 2020
+  year: 2019
+  link:
+    url: resources/Spaulding_AIIDE_DC_20.pdf
+    display:  Here!
+  highlight: 1
+  news2:
+
+- title: "Towards the Development of Personalized Learning Companion Robots for Early Speech and Language Assessment"
+  code: W9  
+  description: "An overview of our work on speech-based social robot interactions for the education community"
+  authors: Gary Yeung, Alison L. Bailey, Amber Afshan, Marlen Q. Perez, Alejandra Martin, <strong>Samuel Spaulding</strong>, Hae Won Park, Abeer Alwan, and Cynthia Breazeal.
+  tag: affect
+  venue: Annual Meeting of the American Educational Research Association (AERA 2019)
+  venue_code: (AERA 2019)
+  year: 2019
+  link:
+    url: resources/aera19_final.pdf
+    display:  Here!
+  highlight: 1
+  news2:
+
 - title: Pronunciation-based Child-Robot Game Interactions to Promote Literacy Skills
   code: W8
   description: Presenting a pronunciation-based personalization model motivating research in companion social robots that help students practice language/literacy skills.

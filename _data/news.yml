@@ -1,22 +1,31 @@
+- date: October 24, 2020
+  headline: "Presented my <a href=resources/Spaulding_AIIDE_DC_20.pdf>Doctoral Consortium </a> submission at the <a href=https://webdocs.cs.ualberta.ca/~santanad/aiide>AAAI Conference on AI and Interactive Digital Entertainment</a>"
+  image: <br><img src='images/news_pics/aiide.jpg'>
+
 - date: March 6, 2020
   headline: "I gave a talk at the <a href=https://crcs.seas.harvard.edu/event/workshop_ai_society>Workshop on AI for Social Impact</a> at the Harvard <a href=https://crcs.seas.harvard.edu/>Center for Research on Computation and Society</a>"
   image: <br><img src='images/news_pics/crcs_header.png'>
+
 - date: Septermber 4, 2019
   headline: "Traveled to Cambridge, UK for ACII 2019, where I presented work on <a href='resources/Spaulding_ACII_19.pdf'>Frustratingly Easy Personalization for Real-time Affect Interpretation of Facial Expression'</a>"
   image: <br><img src='images/news_pics/acii_horiz.png' >
+
 - date: July 11, 2019
   headline: "I spoke (by video) on a panel at the <a href=https://www.thechildrensmediaconference.com/blog/2019/07/11/55505/> Children's Media Conference </a> in Sheffield, UK!"
   image: <br><img src='images/news_pics/TCMC_horiz.jpg'>
+
 - date: June 21, 2019
   headline: "Paper Accepted! <a href='resources/Spaulding_ACII_19.pdf'>Frustratingly Easy Personalization for Real-time Affect Interpretation of Facial Expression'</a> was accepted for poster presentation at <a href='http://acii-conf.org/2019/'>ACII 2019</a>. See you in Cambridge!"
   image: <br><img src='images/news_pics/acii_horiz.png'>
+
 - date: April 4, 2019
   headline: "I was invited to speak at EmTech Caribbean about how social robots can be used as a tool to aid human social and cognitive development. Thanks to the organizers and other speakers for hosting a great event!"
   image: <br><img src='images/news_pics/emtech.png'>
+
 - date: March 10, 2019
   headline: "Traveled to Daegu, Korea for HRI 2019, where I co-organized a workshop on <a href='https://longtermpersonalizationhri.github.io/'>Personalization in Long-term Human-Robot Interaction</a> and presented a poster on <a href='resources/HRI19-LBR-Poster.pdf'>Pronunciation-based Child-Robot Game Interactions to Promote Literacy Skills'</a>"
   image: <br><img src='images/news_pics/hri2019.png'>
-
+  
 - date: July 20, 2018
   headline: "I presented \"A Social Robot System for Modeling Children's Word Pronunciation\" at AAMAS 2018, part of the Federated AI Meeting (FAIM) in Stockholm."
   image: <img src='images/news_pics/aamas18.png'>
