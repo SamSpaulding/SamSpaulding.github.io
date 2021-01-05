@@ -10,7 +10,7 @@ Outside of school and work, I'm a big fan of trivia, in which category I include
 
 I previously played on MIT and Yale's Quiz Bowl teams in a competitive intercollegiate academic quiz league, and I was briefly known for my ability to [answer questions](images/trebek.jpg) for money [on TV](images/millionaire.jpg). 
 
-I love to read, both fiction and non-fiction. Some of my favorite authors are Tom Robbins and Douglas Hofstadter, and I especially enjoy historical biographies.
+I love to read, both fiction and non-fiction. Some of my favorite writers are Zadie Smith, Tom Robbins and Douglas Hofstadter, and I have a particular soft spot for historical biographies and histories of science.
 
 I also like to do things outside including, but not limited to: hiking, running, camping, climbing, exploring interesting spaces, or just sitting around enjoying nice weather.
 
