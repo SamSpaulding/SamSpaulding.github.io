@@ -1,3 +1,17 @@
+- title: "Towards Transferrable Personalized Student Models in Educational Games"
+  code: C10  
+  description: "We present an analysis of \'multitask-persoanlization\', a technique for learning <em>transferrable</em> personalized models of users across tasks."
+  authors: <strong>Samuel Spaulding</strong>, Jocelyn Shen, HaeWon Park, and Cynthia Breazeal
+  tag: modeling
+  venue: Proceedings of the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021)
+  venue_code: AAMAS 2021
+  year: 2021
+  link:
+    url: resources/Spaulding_AAMAS21.pdf
+    display:  Here!
+  highlight: 1
+  news2:
+
 - title: "Frustratingly Easy Personalization for Real-time Affect Interpretation of Facial Expression"
   code: C9  
   description: "We present an analysis of techniques for itnerpreting high-frequency affect data, and a simple method for personalized interpretation of facial expression data"
@@ -121,12 +135,12 @@
 
 - title: "Towards Transferrable Affective Models for Educational Play"
   code: W10  
-  description: "We present an analysis of techniques for itnerpreting high-frequency affect data, and a simple method for personalized interpretation of facial expression data"
+  description: "We present a proposal for developing transferrable models of human affective response using noel iterpretive techniques such as policy shaping."
   authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
   tag: affect
   venue: Proceedings of the 16th AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE 2020 Doctoral Consortium)
   venue_code: AIIDE 2020
-  year: 2019
+  year: 2020
   link:
     url: resources/Spaulding_AIIDE_DC_20.pdf
     display:  Here!
@@ -144,7 +158,7 @@
   link:
     url: resources/aera19_final.pdf
     display:  Here!
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: Pronunciation-based Child-Robot Game Interactions to Promote Literacy Skills

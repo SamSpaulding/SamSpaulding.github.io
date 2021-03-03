@@ -3,7 +3,7 @@
   summary: Interactive robots that construct real-time student models and personalized game behaviors for optimized educational play.
   description:
     Autonomous educational robots have the potential to deliver significant benefits via social interaction.
-    It is difficult to program robust models of interactive social behavior for educational co-play, in part because the interaction takes place in a high-dimensional state space with noisy state dynamics and sparse rewards. More- over, an effective tutor must balance multiple objectives across different time scales, such as teaching new words, acquiring information about the student to model their knowledge, and keeping the interaction fun and engaging.
+    It is difficult to program robust models of interactive social behavior for educational co-play, in part because the interaction takes place in a high-dimensional state space with noisy state dynamics and sparse rewards. Moreover, an effective tutor must balance multiple objectives across different time scales, such as teaching new words, acquiring information about the student to model their knowledge, and keeping the interaction fun and engaging.
     This project aims to address the challenges of learning policies for educational co-play by developing game testbeds for learning algorithms, developing a computaitonal framework formulating educational co-play as a planning problem,
     and using Gaussian Processes with a kernel based on concept-distance and phonetic similarity to model student knowledge.
   collaborators: Samuel Spaulding, Huili Chen, and Cynthia Breazeal
