@@ -1,6 +1,6 @@
 - title: "Towards Transferrable Personalized Student Models in Educational Games"
   code: C10  
-  description: "We present an analysis of \'multitask-persoanlization\', a technique for learning <em>transferrable</em> personalized models of users across tasks."
+  description: "We present an analysis of multitask-personalization, a technique for learning <em>transferrable</em> personalized models of users across tasks."
   authors: <strong>Samuel Spaulding</strong>, Jocelyn Shen, HaeWon Park, and Cynthia Breazeal
   tag: modeling
   venue: Proceedings of the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021)
@@ -14,7 +14,7 @@
 
 - title: "Frustratingly Easy Personalization for Real-time Affect Interpretation of Facial Expression"
   code: C9  
-  description: "We present an analysis of techniques for itnerpreting high-frequency affect data, and a simple method for personalized interpretation of facial expression data"
+  description: "We present an analysis of techniques for interpreting high-frequency affect data, and a simple method for personalized interpretation of facial expression data"
   authors: <strong>Samuel Spaulding</strong> and Cynthia Breazeal
   tag: affect
   venue: Proceedings of the 8th International Conference on Affective Computing & Intelligent Interaction (ACII 2019)
