@@ -1,24 +1,21 @@
-- title: Learning Behavior Policies for Interactive Educational Play
+- title: Lifelong Personalization Models 
   image: jibo.jpeg
-  summary: Interactive robots that construct real-time student models and personalized game behaviors for optimized educational play.
-  description:
-    Autonomous educational robots have the potential to deliver significant benefits via social interaction.
-    It is difficult to program robust models of interactive social behavior for educational co-play, in part because the interaction takes place in a high-dimensional state space with noisy state dynamics and sparse rewards. Moreover, an effective tutor must balance multiple objectives across different time scales, such as teaching new words, acquiring information about the student to model their knowledge, and keeping the interaction fun and engaging.
-    This project aims to address the challenges of learning policies for educational co-play by developing game testbeds for learning algorithms, developing a computaitonal framework formulating educational co-play as a planning problem,
-    and using Gaussian Processes with a kernel based on concept-distance and phonetic similarity to model student knowledge.
-  collaborators: Samuel Spaulding, Huili Chen, and Cynthia Breazeal
-  tag: modeling
+  summary: Transferrable, continual personalization models for interactive robot tutors
+  description: Recognizing that language learning requires engaging students cognitively, affectively, and socially, 
+    this project advances work to design adaptive, personalized models of students over time and across tasks.
+    We apply adaptive student personalization algorithms within a suite of custom-designed games for promoting young children language and literacy skills,
+    extending the scope of single-task "long-term personalization" methods to "multi-task personalized" interactions, which occur across different task contexts. 
+    With continual learning methods that can model individuals over time and across tasks to improve model efficiency and student learning gains, we call 
+    this combined approach "Lifelong Personalization".
+  tag: lifelong
 
 - title: Affect-Aware Robots and Collaborative Storytelling
   image: tega.png
   summary: Robots that can sense and understand human emotion to build better models and interact more empathically with children.
-  description:
-    In a educational game interaction, we showed that, compared to interacting with the tablet games alone, children exhibited greater 
-    emotional expressivity when playing the game with a robot. We also demonstrated that this expressivity can be measured and used as training data to develop more accurate models of student knowledge.
-    We also deployed an affect-sensing social robot system in a local classroom for 2 months, where 34 children played a second-language learning game
-    with the robot over 8 interactions. After each interaction the robot would adapt its choice of emotionally supportive responses to some children. 
-    Children who interacted with the affectively personalized robot maintain high valence over the course of the study, 
-    suggesting that appropriate emotional behavioral in robots is a key component to maintaining long-term interaction.    
+  description: Human affective responses carry important signals for social interaction. In this series of projects, we developed
+    "affect-aware" robots that sense, interpret, and incorporate affective signals into personalization algorithms for interactive storytelling.
+      In partnership with local schools, we deployed these robots in classrooms and were showed that using affective signal data can improve student engagement, model inference, and student learning gains over time.
+    This project also introduces guidelines and techniques for successful interpretation and use of affective data in interactive robot tutors.
   collaborators: Samuel Spaulding, Cynthia Breazeal
   tag: affect  
 

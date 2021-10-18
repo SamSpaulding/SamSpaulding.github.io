@@ -11,7 +11,7 @@ permalink: /research/
 
 ## Highlights
 
-(For a full list of publications see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=uZvvcgUAAAAJ&hl=en)
+(For a full list of publications see [below](#full-list) or go to [Google Scholar](https://scholar.google.com/citations?user=uZvvcgUAAAAJ&hl=en))
 {% assign number_printed = 0 %}
 {% for project in site.data.proj_list %}
 

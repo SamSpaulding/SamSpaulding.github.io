@@ -1,8 +1,22 @@
+- title: "Lifelong Personalization via Gaussian Process Modeling for Long-Term HRI"
+  code: C11
+  description: "Expanded treatment of multitask-personalization, combining <em>transferrable</em> personalized models of users across tasks with a continual learning data management protocol."
+  authors: <strong>Samuel Spaulding</strong>, Jocelyn Shen, HaeWon Park, and Cynthia Breazeal
+  tag: lifelong
+  venue: Frontiers in AI & Robotics 8, 152
+  venue_code: Frontiers in AI & Robotics
+  year: 2021
+  link:
+    url: resources/SpauldingLifelongFrontiers21.pdf
+    display:  Here!
+  highlight: 1
+  news2:
+
 - title: "Towards Transferrable Personalized Student Models in Educational Games"
   code: C10  
   description: "We present an analysis of multitask-personalization, a technique for learning <em>transferrable</em> personalized models of users across tasks."
   authors: <strong>Samuel Spaulding</strong>, Jocelyn Shen, HaeWon Park, and Cynthia Breazeal
-  tag: modeling
+  tag: lifelong
   venue: Proceedings of the 20th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2021)
   venue_code: AAMAS 2021
   year: 2021
@@ -30,7 +44,7 @@
   code: C8  
   description: "We present results from a long-term, in-school study of personalized, affective storytelling social robot companion"
   authors: Hae Won Park, Ishaan Grover, <strong>Samuel Spaulding</strong>, Louis Gomez, and Cynthia Breazeal
-  tag: modeling
+  tag: affect
   venue: Proceedings of 33rd AAAI Conference on Artificial Intelligence (AAAI 2019)
   venue_code: AAAI 2019
   year: 2019
@@ -44,7 +58,7 @@
   code: C7  
   description: "We present a system that autonomously engages children in educational play while modeling and assessing pronunciation ability via Gaussian Process Regression"
   authors: <strong>Samuel Spaulding</strong>, Huili Chen, Safinah Ali, Mike Kulinski, Cynthia Breazeal
-  tag: modeling
+  tag: lifelong
   venue: Proceedings of the 17th International Conference on Autonomous Agents and Multiagent Systems (AAMAS 2018)
   venue_code: AAMAS 2018
   year: 2018
@@ -144,7 +158,7 @@
   link:
     url: resources/Spaulding_AIIDE_DC_20.pdf
     display:  Here!
-  highlight: 1
+  highlight: 0
   news2:
 
 - title: "Towards the Development of Personalized Learning Companion Robots for Early Speech and Language Assessment"
@@ -196,7 +210,7 @@
   year: 2016
   link:
     url: resources/Tega_Social_Robot.pdf
-  highlight: 1
+  highlight: 0
   awards: Best Video Nominee
 
 - title: Towards Affect-Awareness for Social Robots
