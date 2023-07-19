@@ -1,3 +1,12 @@
+- date: October 1, 2022
+  headline: "I have joined Apple's Education Services team as a Machine Learning specialist."
+  image: <img src='images/news_pics/apple.png'>
+
+- date: September 1, 2022
+  headline: "I received my PhD degree from MIT. My thesis was on <a href='resources/Spaulding-phd-thesis.pdf'> Lifelong Personalization For Social Robot Learning Companions:
+Interactive Student Modeling Across Tasks And Over Time</a>."
+  image: <img src='images/news_pics/MIT.png'>  
+
 - date: July 1, 2021
   headline: "I gave a Spotlight Talk on my work to develop transferrable models of student learning at the <a href='https://rl4ed.org/edm2021/'> RL4ED Workshop </a> held at EDM 2021"
   image: <br><img src='images/news_pics/EDM.jpeg'>
