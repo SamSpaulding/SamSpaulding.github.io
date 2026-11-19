@@ -1,3 +1,5 @@
-<iframe src="//docs.google.com/viewer?url=https://dl.dropboxusercontent.com/s/{{ include.code}}?dl=0&hl=en_US&embedded=true" class="gde-frame" style="width:{{include.width}}%; height:{{include.height}}px; border: none;" scrolling="no"></iframe>
-
-<!-- https://www.dropbox.com/s/3h027db9frnu8c9/Sam_Spaulding_CV.pdf?dl=0 -->
+<object data="{{ site.baseurl }}/{{ include.file }}" type="application/pdf" style="width:{{ include.width }}%; height:{{ include.height }}px; border: none;">
+  <iframe src="{{ site.baseurl }}/{{ include.file }}" style="width:{{ include.width }}%; height:{{ include.height }}px; border: none;">
+    <p>Your browser does not support embedded PDFs. You can <a href="{{ site.baseurl }}/{{ include.file }}">download the PDF here</a>.</p>
+  </iframe>
+</object>

@@ -1,5 +1,5 @@
 - title: "Lifelong Personalization via Gaussian Process Modeling for Long-Term HRI"
-  code: C11
+  code: J1
   description: "Expanded treatment of multitask-personalization, combining <em>transferrable</em> personalized models of users across tasks with a continual learning data management protocol."
   authors: <strong>Samuel Spaulding</strong>, Jocelyn Shen, HaeWon Park, and Cynthia Breazeal
   tag: lifelong

@@ -1,9 +1,11 @@
 ---
 layout: page
-title: CV
+title: CV / Resume
 permalink: /cv/
 ---
 
-I've embedded a current version of my CV below. You can also [download the PDF here](https://www.dropbox.com/s/tezjoi8c61mxc3s/Sam_Spaulding_CV.pdf?dl=0).
+Looking for a shorter overview? You can view or download my **2-page industry-focused résumé** [here (PDF)]({{ site.baseurl }}/resources/Sam_Spaulding_Resume.pdf).
 
-{% include embedpdf.html code="tezjoi8c61mxc3s/Sam_Spaulding_CV.pdf" width=100 height=800 %}
+My full academic CV is embedded below, or you can [download the CV PDF here]({{ site.baseurl }}/resources/Sam_Spaulding_CV.pdf).
+
+{% include embedpdf.html file="resources/Sam_Spaulding_CV.pdf" width=100 height=800 %}
