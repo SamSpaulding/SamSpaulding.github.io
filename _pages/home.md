@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-I currently work as a Senior Machine Learning Engineer at Apple, as part of a small prototyping team that builds and evaluates early-stage AI experiences for education and families. The contents of this site reflect the research work I did during my graduate studies at MIT and are not connected to my work at Apple. I believe that AI and Robotics are transformative technologies and have a special passion for finding creative, ethical, and impactful applications for these fields (especially in Education and Art).
+I currently work as a Senior Machine Learning Engineer at Apple, as part of an AI/ML focused team in Education Services. The contents of this site reflect the research work I did during my graduate studies at MIT and are not connected to my work at Apple. I believe that AI and Robotics are transformative technologies and have a special passion for finding creative, ethical, and impactful applications for these fields (especially in Education and Art).
 
 I received my Ph.D. from the [Personal Robots Group](https://www.media.mit.edu/groups/personal-robots/overview/) at the [MIT Media Lab](https://www.media.mit.edu), advised by Professor [Cynthia Breazeal](http://web.media.mit.edu/~cynthiab). My thesis was titled <a href='resources/Spaulding-phd-thesis.pdf'> Lifelong Personalization For Social Robot Learning Companions:
 Interactive Student Modeling Across Tasks And Over Time</a>. This research broadly focused on designing intelligent agents that can construct models of human partners from diverse sources of multimodal data, take actions based on these models, and reason about and refine those models in educational interactions.
